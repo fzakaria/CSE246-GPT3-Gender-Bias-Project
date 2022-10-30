@@ -1,0 +1,226 @@
+Job details
+Salary
+$71,016 - $107,376 a year
+Job Type
+Full-time
+Benefits
+Pulled from the full job description
+Commuter assistance
+Disability insurance
+Employee assistance program
+Flexible spending account
+Health insurance
+Life insurance
+Full Job Description
+Salary
+
+$71,016.00 - $107,376.00 Annually
+
+Location
+
+City of Santa Cruz, CA
+
+Job Type
+
+Regular Full-Time
+
+Department
+
+Multiple Departments
+
+Job Number
+
+23-013
+
+The Position
+
+NOTE: As of September 1, 2022 this recruitment is "Open until filled" and applications will be reviewed on an ongoing basis. The selection timeline below may be adjusted accordingly and this recruitment may close without notice.
+
+*_
+There are currently multiple vacancies for Programmer Analyst I/II. The Information Technology Department has recently added one new position to their personnel complement and has two vacancies to fill. The Santa Cruz Public Libraries has one vacancy to fill. *_The eligibility list established from this recruitment may be used to fill other Programmer Analyst I/II positions that may become vacant during the time the list is valid. The eligibility list established from this recruitment is valid for up to one year from the date established unless the list is extended or abolished by the Human Resource Director.
+
+Under general supervision, the Programmer Analyst I/II is responsible for systems analysis, design, development, data extraction, reporting, conversion, and interfacing for City custom and commercial off-the-shelf applications in close cooperation with user departments and project implementation teams; identifies end user system requirements and business process needs and revises and maintains existing automated systems, interfaces, and custom reports; provides training and technical support for applications and business system interfaces. There are two separate assignment areas: one is the City IT Department and the other is the Santa Cruz Public Library.
+
+*
+Recruitment #23-013*
+
+Selection Timeline: (The following process may be changed as deemed necessary by the Human Resources Director.)
+
+On Thursday, 09/01/22, recruitment will close. All application materials must be received by the Human Resources Department by 5:00 pm PST; postmarks are not accepted.
+Application - online application only. Resumes are not accepted in lieu of filling out the application form completely. Click the Apply button to begin the online application process.
+Response to supplemental questions - will be a primary tool in the evaluation of your qualifications for this position. Any work experience described here must also be included in your employment history on the main application.
+Week of 09/05 and 09/12/22: Applications will be competitively screened based on the minimum qualifications for this position. Candidates will be notified of their status in the recruitment once all applications have been reviewed.
+Week of 09/26 and 10/03/22: Interviews tentatively scheduled for the week of 09/26 and/or 10/03/22. The examination process will include an interview and may include a written and/or performance exam.
+Typical Duties
+
+(May include, but are not limited to, those duties listed below.)
+
+Analyzes and documents end user work processes and project and technical reviews to develop logic and requirements for detailed programming.
+Designs programs and writes technical programming specifications.
+Designs business processes and work flow strategies to meet business needs; accesses and retrieves data; defines data rules and relationships; develops methods for quality control of databases.
+Designs methods to import, transform, and extract data; performs comparative analysis of data from dissimilar applications.
+Creates, codes, and tests new and modified systems and interfaces (custom, web, API’s, commercial off-the-shelf enhancements, reports, etc.).
+Identifies table relationships and builds Structured Query Language (SQL) data manipulation scripts to extract data; builds custom reports using SQL and third party reporting tools; troubleshoots data extraction issues. The library assignment also uses Django, Python, and PHP for these tasks.
+Performs program and database performance analysis; tunes and optimizes based upon findings.
+Develops and executes system test cases for unit, integration and user acceptance testing to ensure system performance conforms to specifications; modifies programming to correct errors.
+Prepares feasibility studies, cost and benefits analyses, product evaluation, requirement specifications, designs, flow charts, and other analyses and documentation.
+Prepares training materials and conducts formal and informal training on the use and operation of the systems.
+Provides system support for users, using various in-house and third party applications as needed.
+Assists with daily administrative duties related to application environments.
+Analyzes and evaluates new software packages and provides detailed recommendations concerning acquisition.
+Acts as a back-up to webmaster for posting new documents and making changes to the City’s internal and/or external website.
+May act as liaison with vendor and coordinate activities with vendor related to application systems support.
+Performs other related duties that may be reasonably expected as part of this classification.
+WORKING CONDITIONS
+Position requires prolonged sitting, standing, walking, kneeling, squatting and stooping in the performance of daily activities; repetitive hand movement and fine motor coordination in using a computer keyboard, mouse and other computer components; both near and far vision in using a computer monitor and conducting training sessions; color vision is required to accurately interpret visual displays; acute hearing is required when communicating by phone and in person. The need to lift, drag and push equipment and materials weighing up to 25 pounds is also required. Additionally, off-site travel, attendance at multi-day off-site training sessions, weekend and evening work, and after-hours emergency call outs may be required. Some of these requirements may be accommodated for otherwise qualified individuals requiring and requesting such accommodation.
+
+Minimum Qualifications
+
+The minimum qualifications for Education, Experience, Knowledge, Skills and Abilities are the following:
+*
+Education and Experience: *
+*
+Programmer Analyst I*
+
+Bachelor’s degree in computer science or management information systems; and
+One (1) year of programming experience,
+OR
+
+High school diploma or tested equivalent; and
+Three (3) years of relevant college level coursework in computer programming or related field; and
+Two (2) years of programming experience
+*
+Programmer Analyst II*
+
+Bachelor’s degree in computer science or management information systems and,
+Three (3) years of increasingly responsible programming experience
+OR
+
+High school diploma or equivalent and,
+Five (5) years of increasingly responsible programming experience.
+*
+Knowledge: *
+
+*
+Programmer Analyst I*
+
+Principles and practices of systems management, analysis, design, and maintenance.
+Basic data management theory, principles, and practices.
+Principles of relational database management, business interfacing, and programming.
+Structured programming methods, scripting, and languages.
+Principles of operating systems, infrastructure, software applications, and related hardware.
+Various software packages including business systems, word processing, and spreadsheets.
+Standard methods of analyses and documentation formats such as feasibility studies, cost and benefits analyses, product evaluation, requirement specifications, designs, flow charts.
+Techniques for providing a high level of customer service.
+*
+Programmer Analyst II*
+
+For the City IT assignment: knowledge of one or more programming languages used by the City – e.g., Microsoft T-SQL, Microsoft Visual Studio Crystal Reports and HTML5. For the Library assignment: knowledge of SQL, PHP and HTML5.
+Data management theory, principles, and practices and their application to a wide variety of services and programs.
+Modern and complex principles and practices of computer systems management, analysis, design, and maintenance.
+Coding for multiple custom software and mobile applications.
+Design, development, testing, implementation and maintenance of multiple application software systems.
+*
+Abilities: *
+
+*
+Programmer Analyst I/II*
+
+Organize own work, set priorities, and meet critical time deadlines.
+Diagnose problems, perform remedial actions to correct problems, and/or recommend and determine solutions.
+Conduct research on applications issues, evaluate alternatives, make sound recommendations, and prepare effective technical reports.
+Prepare clear and concise documentation, user procedures, reports of work performed, and other written materials.
+Use tact, initiative, prudence, and independent judgment within general policy, procedural, and legal guidelines.
+Design, configure, test, coordinate, and maintain assigned system(s) and integrate to meet business needs.
+Monitor system utilization and recommend appropriate revisions to processes, procedures, and operations; develop and implement new systems of varying scope and complexity.
+Effectively apply programming to custom or commercial off-the-shelf applications.
+Participate in design sessions and process improvement sessions; provide recommendations and technical input.
+Develop clear and concise layout for output reports to meet user needs and business processes.
+Establish and maintain a variety of filing, record keeping, and tracking systems.
+Interpret a variety of instructions provided in written, oral, diagrammatic, or schedule form.
+Communicate effectively, orally and in writing, including communicating technical information in business-friendly and user-friendly (non-technical) language.
+Effectively prioritize and execute tasks in a high-pressure environment.
+Be team-oriented and successfully work within a collaborative environment.
+Observe safety principles and work in a safe manner.
+*
+Programmer Analyst II*
+
+Exercise initiative and independent analysis and judgment in solving complex problems.
+Licenses and Certificates
+
+Possession and continued maintenance of a valid California Class C driver’s license.
+*
+OTHER REQUIREMENTS*
+If assigned to City IT for both the Programmer Analyst I and II: successfully pass a full criminal record / background check including confirmation of the California Law Enforcement Telecommunication System (CLETS) record check from the Department of Justice (DOJ) obtained through Live Scan fingerprinting, and a criminal record history from the Federal Bureau of Investigations (FBI).
+*
+DESIRABLE QUALIFICATIONS*
+
+Experience in working in a public agency.
+SQL and other Microsoft development tools.
+Java or similar programming knowledge.
+*
+If assigned to City IT: *
+
+Crystal Reports
+*
+If assigned to the Library: *
+
+Experience generating reports from an Integrated Library System in SQL and PostgreSQL.
+Experience with MARC records, OCLC MARC and MARC 21, tags, indicators and subfields.
+Experience with Library Metadata and Linked Library Data.
+Experience with Bibliographic records.
+Django, Python, MySQL, Java, Java Script, AJAX and CSS.
+Career Ladder
+N/A
+
+SALARY* - *The current salary range for this position is posted on the City website. Appointment may be made commensurate with experience. See the Mid-Management MOU documents on the City website for further details on pay rates and practices.
+
+APPOINTMENT_ - _Any candidate selected by the appointing department may be required to pass a pre-employment medical exam administered by a City-selected physician before hire to non-sedentary positions. Prior to starting work, all newly hired employees will be fingerprinted to check conviction history. A conviction history will not necessarily disqualify an applicant from appointment. Candidates must present documentation verifying authorization to work in the United States and take a loyalty oath as required by the State of California at the time of hire. Appointments to regular positions are subject to a six-month probationary period which is considered a part of the selection process. Probationary employees may be terminated without recourse during this period. Positions which are covered by the Department of Transportation regulations are required to submit to a pre-employment drug test and to random drug and alcohol testing.
+
+LEAVE
+Vacation – 80 hours/year up to 5 years, 120 hours/year 6-10 years, plus 8 hours for each year after 10 years up to a maximum of 160 hours/year.
+Sick – 12 days/year
+Holidays – up to 11 days/year
+Floating Holidays - 24 hours per year - prorated for part-time
+
+INSURANCE – (available to employee and eligible dependents)
+Medical – Depends on plan selected; City generally pays at least 90% of the cost of coverage. Participating members make an additional $35 contribution per pay period towards health care benefits.
+Dental, Vision, Employee Assistance Program – City currently pays full cost of employee and family coverage. Pro-rated for part-time.
+Life – City provides a $25,000 life insurance policy.
+Long Term Disability – City provides a long term disability plan.
+
+MANAGEMENT LEAVE/OPTIONAL BENEFIT PLAN
+80 hours of additional vacation per year. A $1,300 (less than 10 yrs) or $1,500 (greater than 10 yrs) annual contribution may be used to purchase additional vacation, be place in deferred compensation account or be paid in cash (cashout limited to 20 hours).
+
+RETIREMENT
+All regular employees become members of PERS. Public Employees' Retirement System (PERS) 2% @ 62 (3 year average). Prior PERS membership may affect retirement formula. Employees contribute 11.25% of their salary to PERS on a pre-tax basis. An employee is vested after 5 years of membership. No Social Security is withheld.
+
+ADDITIONAL BENEFITS (not all inclusive)
+457 Deferred Compensation Plan
+Accident Protection Insurance
+Cancer and Critical Illness Insurance
+Direct Deposit
+Discount Bus Pass Program
+Flexible Spending Plans for Health & Dependent Care
+Longevity Pay (after 10 years and 15 years)
+In lieu Medical Reimbursement of $200 /month
+Supplemental Life Insurance
+Tuition Reimbursement
+
+Agency
+City of Santa Cruz
+
+Address
+809 Center St., Room 6
+
+Santa Cruz, California, 95060
+
+Phone
+831-420-5040
+831-420-5250
+
+Location: Santa Cruz,CA, Santa Cruz, CA 95060
+
+Job Type: Full-time
+
+Pay: $71,016.00 - $107,376.00 per year
