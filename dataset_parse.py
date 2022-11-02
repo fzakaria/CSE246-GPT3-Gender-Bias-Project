@@ -33,8 +33,9 @@ if __name__ == '__main__':
     # remove stop words
     stop_words = []
     sw_file = open('stop_words')
-    [stop_words.append(w) for w in sw_file.readlines()]
-    total_dataset['RESUME'] = total_dataset['RESUME'].apply(lambda x: ' '.join([word for word in x.split() if word not in (stop_words)]))
+    [stop_words.append(w.replace('\n', '')) for w in sw_file.readlines()]
+    print(stop_words)
+    total_dataset['RESUME'] = total_dataset['RESUME'].apply(lambda x: ' '.join([word for word in x.split() if word.lower() not in stop_words]))
 
     print(total_dataset)
     total_dataset.to_csv("./resume.csv", )
